@@ -1,3 +1,4 @@
+#!groovy
 pipeline {
 agent any
 // Déclarations des étapes de construction de Jenkinsfile à partir de GitHub //
